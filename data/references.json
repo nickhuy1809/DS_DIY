@@ -1,0 +1,627 @@
+{
+  "2301-07719": {
+    "title": "The Scale of Supersymmetry Breaking and the Dark Dimension",
+    "authors": [
+      "L. Anchordoqui",
+      "I. Antoniadis",
+      "N. Cribiori",
+      "D. Lüst",
+      "M. Scalisi"
+    ],
+    "submission_date": "2023-01-18",
+    "revised_dates": [],
+    "doi": "10.1007/JHEP05(2023)060",
+    "arxiv_id": "2301.07719",
+    "venue": "Journal of High Energy Physics",
+    "year": 2023
+  },
+  "2212-06169": {
+    "title": "AdS scale separation and the distance conjecture",
+    "authors": [
+      "G. Shiu",
+      "Flavio Tonioni",
+      "Vincent Van Hemelryck",
+      "T. Van Riet"
+    ],
+    "submission_date": "2022-12-12",
+    "revised_dates": [],
+    "doi": "10.1007/JHEP05(2023)077",
+    "arxiv_id": "2212.06169",
+    "venue": "Journal of High Energy Physics",
+    "year": 2022
+  },
+  "2212-06187": {
+    "title": "Lectures on the string landscape and the Swampland",
+    "authors": [
+      "Nathan B. Agmon",
+      "Alek Bedroya",
+      "M. Kang",
+      "C. Vafa"
+    ],
+    "submission_date": "2022-12-12",
+    "revised_dates": [],
+    "arxiv_id": "2212.06187",
+    "year": 2022
+  },
+  "2208-01057": {
+    "title": "The dark dimension in a warped throat",
+    "authors": [
+      "R. Blumenhagen",
+      "Max Brinkmann",
+      "Andriana Makridou"
+    ],
+    "submission_date": "2022-08-01",
+    "revised_dates": [],
+    "doi": "10.1016/j.physletb.2023.137699",
+    "arxiv_id": "2208.01057",
+    "venue": "Physics Letters B",
+    "year": 2022
+  },
+  "2206-04708": {
+    "title": "Effective Theory of Warped Compactifications and the Implications for KKLT",
+    "authors": [
+      "Severin Lüst",
+      "L. Randall"
+    ],
+    "submission_date": "2022-06-09",
+    "revised_dates": [],
+    "doi": "10.1002/prop.202200103",
+    "arxiv_id": "2206.04708",
+    "venue": "Fortschritte der Physik",
+    "year": 2022
+  },
+  "2205-12293": {
+    "title": "The dark dimension and the Swampland",
+    "authors": [
+      "M. Montero",
+      "C. Vafa",
+      "I. Valenzuela"
+    ],
+    "submission_date": "2022-05-24",
+    "revised_dates": [],
+    "doi": "10.1007/JHEP02(2023)022",
+    "arxiv_id": "2205.12293",
+    "venue": "Journal of High Energy Physics",
+    "year": 2022
+  },
+  "2112-02465": {
+    "title": "Brane/flux annihilation in double-throat system",
+    "authors": [
+      "M. Seo"
+    ],
+    "submission_date": "2021-12-05",
+    "revised_dates": [],
+    "doi": "10.1007/JHEP03(2022)007",
+    "arxiv_id": "2112.02465",
+    "venue": "Journal of High Energy Physics",
+    "year": 2021
+  },
+  "2110-02963": {
+    "title": "Thraxions: towards full string models",
+    "authors": [
+      "F. Carta",
+      "Alessandro Mininno",
+      "Nicole Righi",
+      "A. Westphal"
+    ],
+    "submission_date": "2021-10-06",
+    "revised_dates": [],
+    "doi": "10.1007/JHEP01(2022)082",
+    "arxiv_id": "2110.02963",
+    "venue": "Journal of High Energy Physics",
+    "year": 2021
+  },
+  "2107-00087": {
+    "title": "The Swampland Conjectures: A Bridge from Quantum Gravity to Particle Physics",
+    "authors": [
+      "M. Graña",
+      "Alvaro Herr'aez"
+    ],
+    "submission_date": "2021-07-01",
+    "revised_dates": [],
+    "doi": "10.3390/universe7080273",
+    "arxiv_id": "2107.00087",
+    "venue": "Universe",
+    "year": 2021
+  },
+  "2105-03370": {
+    "title": "A new de Sitter solution with a weakly warped deformed conifold",
+    "authors": [
+      "Bruno Valeixo Bento",
+      "Dibya Chakraborty",
+      "S. Parameswaran",
+      "I. Zavala"
+    ],
+    "submission_date": "2021-05-07",
+    "revised_dates": [],
+    "doi": "10.1007/JHEP12(2021)124",
+    "arxiv_id": "2105.03370",
+    "venue": "Journal of High Energy Physics",
+    "year": 2021
+  },
+  "2104-10181": {
+    "title": "A gravitino distance conjecture",
+    "authors": [
+      "A. Castellano",
+      "A. Font",
+      "A. Herraez",
+      "L. Ibáñez"
+    ],
+    "submission_date": "2021-04-20",
+    "revised_dates": [],
+    "doi": "10.1007/JHEP08(2021)092",
+    "arxiv_id": "2104.10181",
+    "venue": "Journal of High Energy Physics",
+    "year": 2021
+  },
+  "2104-08288": {
+    "title": "The gravitino and the swampland",
+    "authors": [
+      "N. Cribiori",
+      "D. Lüst",
+      "M. Scalisi"
+    ],
+    "submission_date": "2021-04-16",
+    "revised_dates": [],
+    "doi": "10.1007/JHEP06(2021)071",
+    "arxiv_id": "2104.08288",
+    "venue": "Journal of High Energy Physics",
+    "year": 2021
+  },
+  "2103-00811": {
+    "title": "Dilaton stabilization in KKLT revisited",
+    "authors": [
+      "M. Seo"
+    ],
+    "submission_date": "2021-03-01",
+    "revised_dates": [],
+    "doi": "10.1016/j.nuclphysb.2021.115452",
+    "arxiv_id": "2103.00811",
+    "year": 2021
+  },
+  "2102-01111": {
+    "title": "Lectures on the Swampland Program in String Compactifications",
+    "authors": [
+      "Marieke van Beest",
+      "J. Calderón-Infante",
+      "Delaram Mirfendereski",
+      "I. Valenzuela"
+    ],
+    "submission_date": "2021-02-01",
+    "revised_dates": [],
+    "doi": "10.1016/j.physrep.2022.09.002",
+    "arxiv_id": "2102.01111",
+    "venue": "Physics reports",
+    "year": 2021
+  },
+  "2009-03914": {
+    "title": "Control Issues of KKLT",
+    "authors": [
+      "Xin Gao",
+      "A. Hebecker",
+      "D. Junghans"
+    ],
+    "submission_date": "2020-09-08",
+    "revised_dates": [],
+    "doi": "10.1002/prop.202000089",
+    "arxiv_id": "2009.03914",
+    "venue": "Fortschritte der Physik",
+    "year": 2020
+  },
+  "2005-08538": {
+    "title": "Fermions and the Swampland",
+    "authors": [
+      "Eran Palti"
+    ],
+    "submission_date": "2020-05-18",
+    "revised_dates": [],
+    "doi": "10.1016/j.physletb.2020.135617",
+    "arxiv_id": "2005.08538",
+    "venue": "Physics Letters B",
+    "year": 2020
+  },
+  "1906-05225": {
+    "title": "AdS and the Swampland",
+    "authors": [
+      "D. Lust",
+      "Eran Palti",
+      "C. Vafa"
+    ],
+    "submission_date": "2019-06-12",
+    "revised_dates": [],
+    "doi": "10.1016/j.physletb.2019.134867",
+    "arxiv_id": "1906.05225",
+    "venue": "Physics Letters B",
+    "year": 2019
+  },
+  "1903-06239": {
+    "title": "The Swampland: Introduction and Review",
+    "authors": [
+      "Eran Palti"
+    ],
+    "submission_date": "2019-03-14",
+    "revised_dates": [],
+    "doi": "10.1002/prop.201900037",
+    "arxiv_id": "1903.06239",
+    "venue": "Fortschritte der Physik",
+    "year": 2019
+  },
+  "1902-07724": {
+    "title": "Swampland variations on a theme by KKLT",
+    "authors": [
+      "R. Blumenhagen",
+      "Daniel Kläwer",
+      "Lorenz Schlechter"
+    ],
+    "submission_date": "2019-02-20",
+    "revised_dates": [],
+    "doi": "10.1007/JHEP05(2019)152",
+    "arxiv_id": "1902.07724",
+    "venue": "Journal of High Energy Physics",
+    "year": 2019
+  },
+  "1902-01412": {
+    "title": "Gaugino condensation and small uplifts in KKLT",
+    "authors": [
+      "F. Carta",
+      "Jakob Moritz",
+      "A. Westphal"
+    ],
+    "submission_date": "2019-02-04",
+    "revised_dates": [],
+    "doi": "10.1007/JHEP08(2019)141",
+    "arxiv_id": "1902.01412",
+    "venue": "Journal of High Energy Physics",
+    "year": 2019
+  },
+  "1812-03999": {
+    "title": "Thraxions: ultralight throat axions",
+    "authors": [
+      "A. Hebecker",
+      "Sascha Leonhardt",
+      "Jakob Moritz",
+      "A. Westphal"
+    ],
+    "submission_date": "2018-12-10",
+    "revised_dates": [],
+    "doi": "10.1007/JHEP04(2019)158",
+    "arxiv_id": "1812.03999",
+    "venue": "Journal of High Energy Physics",
+    "year": 2018
+  },
+  "1809-06861": {
+    "title": "Uplifting Runaways",
+    "authors": [
+      "I. Bena",
+      "E. Dudas",
+      "M. Graña",
+      "Severin Lüst"
+    ],
+    "submission_date": "2018-09-19",
+    "revised_dates": [],
+    "doi": "10.1002/prop.201800100",
+    "arxiv_id": "1809.06861",
+    "venue": "Fortschritte der Physik",
+    "year": 2018
+  },
+  "1711-00864": {
+    "title": "The String Landscape, the Swampland, and the Missing Corner",
+    "authors": [
+      "F. Carta",
+      "C. Vafa",
+      "T. D. Brennan"
+    ],
+    "submission_date": "2017-11-02",
+    "revised_dates": [],
+    "doi": "10.22323/1.305.0015",
+    "arxiv_id": "1711.00864",
+    "year": 2017
+  },
+  "1512-00457": {
+    "title": "Remarks on scale separation in flux vacua",
+    "authors": [
+      "F. F. Gautason",
+      "M. Schillo",
+      "T. Riet",
+      "Matthew R. Williams"
+    ],
+    "submission_date": "2015-12-01",
+    "revised_dates": [],
+    "doi": "10.1007/JHEP03(2016)061",
+    "arxiv_id": "1512.00457",
+    "year": 2015
+  },
+  "1206-5900": {
+    "title": "Supersymmetric AdS vacua and separation of scales",
+    "authors": [
+      "D. Tsimpis"
+    ],
+    "submission_date": "2012-06-26",
+    "revised_dates": [],
+    "doi": "10.1007/JHEP08(2012)142",
+    "arxiv_id": "1206.5900",
+    "year": 2012
+  },
+  "1111-1465": {
+    "title": "Supersymmetry breaking due to moduli stabilization in string theory",
+    "authors": [
+      "Andrei Linde",
+      "Y. Mambrini",
+      "K. Olive"
+    ],
+    "submission_date": "2011-11-07",
+    "revised_dates": [],
+    "doi": "10.1103/PhysRevD.85.066005",
+    "arxiv_id": "1111.1465",
+    "year": 2011
+  },
+  "0901-4401": {
+    "title": "Brane/flux annihilation transitions and nonperturbative moduli stabilization",
+    "authors": [
+      "Charles Max Brown",
+      "Oliver DeWolfe"
+    ],
+    "submission_date": "2009-01-28",
+    "revised_dates": [],
+    "doi": "10.1088/1126-6708/2009/05/018",
+    "arxiv_id": "0901.4401",
+    "year": 2009
+  },
+  "0810-5768": {
+    "title": "The Universal Kaehler Modulus in Warped Compactifications",
+    "authors": [
+      "A. Frey",
+      "G. Torroba",
+      "Bret Underwood",
+      "Michael R Douglas"
+    ],
+    "submission_date": "2008-10-31",
+    "revised_dates": [],
+    "doi": "10.1088/1126-6708/2009/01/036",
+    "arxiv_id": "0810.5768",
+    "year": 2008
+  },
+  "0710-4344": {
+    "title": "Black hole bound on the number of species and quantum gravity at CERN LHC",
+    "authors": [
+      "G. Dvali",
+      "M. Redi"
+    ],
+    "submission_date": "2007-10-23",
+    "revised_dates": [],
+    "doi": "10.1103/PhysRevD.77.045027",
+    "arxiv_id": "0710.4344",
+    "year": 2007
+  },
+  "0706-2050": {
+    "title": "Black holes and large N species solution to the hierarchy problem",
+    "authors": [
+      "G. Dvali"
+    ],
+    "submission_date": "2007-06-14",
+    "revised_dates": [],
+    "doi": "10.1002/prop.201000009",
+    "arxiv_id": "0706.2050",
+    "year": 2007
+  },
+  "0704-4001": {
+    "title": "Warping and supersymmetry breaking",
+    "authors": [
+      "Michael R Douglas",
+      "J. Shelton",
+      "G. Torroba"
+    ],
+    "submission_date": "2007-04-30",
+    "revised_dates": [],
+    "arxiv_id": "0704.4001",
+    "year": 2007
+  },
+  "hep-th/0610255": {
+    "title": "Warped Supersymmetry Breaking",
+    "authors": [
+      "C. Burgess",
+      "C. Burgess",
+      "P. G. Cámara",
+      "S. Alwis",
+      "S. Giddings",
+      "Anshuman Maharana",
+      "F. Quevedo",
+      "F. Quevedo",
+      "K. Suruliz"
+    ],
+    "submission_date": "2006-10-24",
+    "revised_dates": [],
+    "doi": "10.1088/1126-6708/2008/04/053",
+    "arxiv_id": "hep-th/0610255",
+    "year": 2006
+  },
+  "hep-th/0605264": {
+    "title": "On the Geometry of the String Landscape and the Swampland",
+    "authors": [
+      "H. Ooguri",
+      "C. Vafa"
+    ],
+    "submission_date": "2006-05-26",
+    "revised_dates": [],
+    "doi": "10.1016/j.nuclphysb.2006.10.033",
+    "arxiv_id": "hep-th/0605264",
+    "year": 2006
+  },
+  "hep-th/0509212": {
+    "title": "The String Landscape and the Swampland",
+    "authors": [
+      "C. Vafa"
+    ],
+    "submission_date": "2005-09-28",
+    "revised_dates": [],
+    "arxiv_id": "hep-th/0509212",
+    "year": 2005
+  },
+  "hep-th/0507158": {
+    "title": "Dynamics of warped compactifications and the shape of the warped landscape",
+    "authors": [
+      "S. Giddings",
+      "Anshuman Maharana"
+    ],
+    "submission_date": "2005-07-15",
+    "revised_dates": [],
+    "doi": "10.1103/PhysRevD.73.126003",
+    "arxiv_id": "hep-th/0507158",
+    "year": 2005
+  },
+  "hep-th/0505076": {
+    "title": "Large-volume flux compactifications: Moduli spectrum and D3/D7 soft supersymmetry breaking",
+    "authors": [
+      "J. Conlon",
+      "F. Quevedo",
+      "K. Suruliz"
+    ],
+    "submission_date": "2005-05-09",
+    "revised_dates": [],
+    "doi": "10.1088/1126-6708/2005/08/007",
+    "arxiv_id": "hep-th/0505076",
+    "year": 2005
+  },
+  "hep-th/0502058": {
+    "title": "Systematics of moduli stabilisation in Calabi-Yau flux compactifications",
+    "authors": [
+      "V. Balasubramanian",
+      "Per Berglund",
+      "J. Conlon",
+      "F. Quevedo"
+    ],
+    "submission_date": "2005-02-04",
+    "revised_dates": [],
+    "doi": "10.1088/1126-6708/2005/03/007",
+    "arxiv_id": "hep-th/0502058",
+    "year": 2005
+  },
+  "hep-th/0411066": {
+    "title": "Stability of flux compactifications and the pattern of supersymmetry breaking",
+    "authors": [
+      "Kiwoon Choi",
+      "A. Falkowski",
+      "H. Nilles",
+      "M. Olechowski",
+      "S. Pokorski"
+    ],
+    "submission_date": "2004-11-01",
+    "revised_dates": [],
+    "doi": "10.1088/1126-6708/2004/11/076",
+    "arxiv_id": "hep-th/0411066",
+    "year": 2004
+  },
+  "hep-th/0411011": {
+    "title": "Landscape, the scale of SUSY breaking, and inflation",
+    "authors": [
+      "R. Kallosh",
+      "Andrei Linde"
+    ],
+    "submission_date": "2004-11-01",
+    "revised_dates": [],
+    "doi": "10.1088/1126-6708/2004/12/004",
+    "arxiv_id": "hep-th/0411011",
+    "year": 2004
+  },
+  "hep-ph/0304029": {
+    "title": "Supernova and neutron star limits on large extra dimensions reexamined",
+    "authors": [
+      "S. Hannestad",
+      "G. Raffelt"
+    ],
+    "submission_date": "2003-04-03",
+    "revised_dates": [],
+    "doi": "10.1103/PhysRevD.67.125008 10.1103/PhysRevD.69.029901",
+    "arxiv_id": "hep-ph/0304029",
+    "year": 2003
+  },
+  "hep-th/0301240": {
+    "title": "De Sitter vacua in string theory",
+    "authors": [
+      "S. Kachru",
+      "R. Kallosh",
+      "Andrei Linde",
+      "S. Trivedi"
+    ],
+    "submission_date": "2003-01-29",
+    "revised_dates": [],
+    "doi": "10.1103/PhysRevD.68.046005",
+    "arxiv_id": "hep-th/0301240",
+    "year": 2003
+  },
+  "hep-th/0208123": {
+    "title": "Scales and hierarchies in warped compactifications and brane worlds",
+    "authors": [
+      "Oliver DeWolfe",
+      "S. Giddings"
+    ],
+    "submission_date": "2002-08-17",
+    "revised_dates": [],
+    "doi": "10.1103/PhysRevD.67.066008",
+    "arxiv_id": "hep-th/0208123",
+    "year": 2002
+  },
+  "hep-th/0112197": {
+    "title": "Brane/Flux Annihilation and the String Dual of a Non-Supersymmetric Field Theory",
+    "authors": [
+      "S. Kachru",
+      "J. Pearson",
+      "H. Verlinde"
+    ],
+    "submission_date": "2001-12-20",
+    "revised_dates": [],
+    "doi": "10.1088/1126-6708/2002/06/021",
+    "arxiv_id": "hep-th/0112197",
+    "year": 2001
+  },
+  "hep-th/0105097": {
+    "title": "Hierarchies from fluxes in string compactifications",
+    "authors": [
+      "S. Giddings",
+      "S. Kachru",
+      "J. Polchinski"
+    ],
+    "submission_date": "2001-05-10",
+    "revised_dates": [],
+    "doi": "10.1103/PhysRevD.66.106006",
+    "arxiv_id": "hep-th/0105097",
+    "year": 2001
+  },
+  "hep-th/0007191": {
+    "title": "Supergravity and a confining gauge theory: Duality cascades and χSB-resolution of naked singularities",
+    "authors": [
+      "I. Klebanov",
+      "M. Strassler"
+    ],
+    "submission_date": "2000-07-24",
+    "revised_dates": [],
+    "doi": "10.1088/1126-6708/2000/08/052",
+    "arxiv_id": "hep-th/0007191",
+    "year": 2000
+  },
+  "hep-th/0007018": {
+    "title": "Supergravity description of field theories on curved manifolds and a no go theorem",
+    "authors": [
+      "J. Maldacena",
+      "C. Nunez"
+    ],
+    "submission_date": "2000-07-03",
+    "revised_dates": [],
+    "doi": "10.1142/S0217751X01003937",
+    "arxiv_id": "hep-th/0007018",
+    "year": 2000
+  },
+  "hep-th/9906070": {
+    "title": "CFT's from Calabi–Yau four-folds",
+    "authors": [
+      "S. Gukov",
+      "C. Vafa",
+      "E. Witten"
+    ],
+    "submission_date": "1999-06-09",
+    "revised_dates": [],
+    "doi": "10.1016/S0550-3213(00)00373-4",
+    "arxiv_id": "hep-th/9906070",
+    "year": 1999
+  }
+}
